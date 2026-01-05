@@ -1,6 +1,6 @@
 # Evaluate LLM Bias by Replicating and Extending MBBQ
 
-This repository evaluates Llama 2 7B by replicating the study of Neplenbroek et al. (2024) and extends the scope to nationality, gender and their intersection in Spanish.
+This repository evaluates Llama 2 7B by replicating the study of Neplenbroek et al. (2024) and extends the scope of the MBBQ (Multilingual Bias Benchmark for Question-answering) dataset to nationality, gender and their intersection in Spanish.
 
 ![Dataset example](MBBQ_dataset.png) Image authors: Neplenbroek et al. (2024)
 
